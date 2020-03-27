@@ -1,6 +1,6 @@
 # Getting started with Docker
 
-## We'll cover...
+## We'll cover
 
 - Why Docker is favourable
 - we will not cover steps to install Docker and nvidia-docker...
@@ -45,7 +45,7 @@ OS-level virtualization to deliver software in packages called containers.
 
 create a new repository and name it `pytorch`
 
-### Two ways to create a docker image...
+### Two ways to create a docker image
 
 - `docker commit` to a repository
 - writing and running `Dockerfile` script
