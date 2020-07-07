@@ -9,3 +9,4 @@
 |Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks|[@hushon](https://github.com/hushon)|2020-04-13|[slides](GateDecorator/gate-decorator.pdf)|
 |FCOS: Fully Convolutional One-Stage Object Detection|[@justinohr](https://github.com/justinohr)|2020-04-17|[slides](https://drive.google.com/file/d/1L8mx5xaSAMpkSf5Bgs4JF9ee-CwpKuFJ)|
 |Your classifier is secretly an energy based model and you should treat it like one|[@hushon](https://github.com/hushon)|2020-04-24|[slides](JointEnergybasedModel/joint-energy-based-model.pdf)|
+|Pruning at Initialization|[@hushon](https://github.com/hushon)|2020-06-19|[slides](PruningAtInitialization/pruning-at-initialization.pdf)|
