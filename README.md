@@ -11,3 +11,4 @@
 |Your classifier is secretly an energy based model and you should treat it like one|[@hushon](https://github.com/hushon)|2020-04-24|[slides](JointEnergybasedModel/joint-energy-based-model.pdf)|
 |Pruning at Initialization|[@hushon](https://github.com/hushon)|2020-06-19|[slides](PruningAtInitialization/pruning-at-initialization.pdf)|
 |Bayesian Optimization for Hyperparameter Search|[@hushon](https://github.com/hushon)|2020-10-16|[slides](BayesianOptimization/bayes-opt.pdf) [code](BayesianOptimization/hyper_opt_cifar10.ipynb)|
+|Deep Implicit Layers|[@hushon](https://github.com/hushon)|2021-1-7|[slides](DeepImplicitLayers/deep-implicit-layers.pdf)|
