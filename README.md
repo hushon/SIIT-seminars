@@ -13,3 +13,4 @@
 |Bayesian Optimization for Hyperparameter Search|[@hushon](https://github.com/hushon)|2020-10-16|[slides](BayesianOptimization/bayes-opt.pdf) [code](BayesianOptimization/hyper_opt_cifar10.ipynb)|
 |Deep Implicit Layers|[@hushon](https://github.com/hushon)|2021-1-7|[slides](DeepImplicitLayers/deep-implicit-layers.pdf)|
 |Introduction to Normalizing Flows|[@hushon](https://github.com/hushon)|2021-05-21|[slides](NormalizingFlows/normalizing-flows.pdf)|
+|NVIDIA GPUs|[@hushon](https://github.com/hushon)|2023-11-8|[slides](NVIDIAGPU/nvidia-gpus.pdf)|
