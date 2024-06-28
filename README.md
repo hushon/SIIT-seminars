@@ -15,3 +15,4 @@
 |Introduction to Normalizing Flows|[@hushon](https://github.com/hushon)|2021-05-21|[slides](NormalizingFlows/normalizing-flows.pdf)|
 |NVIDIA GPUs|[@hushon](https://github.com/hushon)|2023-11-8|[slides](NVIDIAGPU/nvidia-gpus.pdf)|
 |Structured State Space Models|[@hushon](https://github.com/hushon)|2024-02-02|[slides](Mamba/structured-state-space-models.pdf)|
+|MachineUnlearning|[@hushon](https://github.com/hushon)|2024-02-02|[slides](MachineUnlearning/machine-unlearning.pdf)|
