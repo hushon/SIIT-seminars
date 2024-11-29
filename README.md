@@ -16,3 +16,4 @@
 |NVIDIA GPUs|[@hushon](https://github.com/hushon)|2023-11-8|[slides](NVIDIAGPU/nvidia-gpus.pdf)|
 |Structured State Space Models|[@hushon](https://github.com/hushon)|2024-02-02|[slides](Mamba/structured-state-space-models.pdf)|
 |MachineUnlearning|[@hushon](https://github.com/hushon)|2024-02-02|[slides](MachineUnlearning/machine-unlearning.pdf)|
+|Reversible Vision Transformers|[@hushon](https://github.com/hushon)|2024-11-29|[slides](ReversibleVIT/reversible.pdf)|
