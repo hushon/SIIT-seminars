@@ -17,3 +17,4 @@
 |Structured State Space Models|[@hushon](https://github.com/hushon)|2024-02-02|[slides](Mamba/structured-state-space-models.pdf)|
 |MachineUnlearning|[@hushon](https://github.com/hushon)|2024-02-02|[slides](MachineUnlearning/machine-unlearning.pdf)|
 |Reversible Vision Transformers|[@hushon](https://github.com/hushon)|2024-11-29|[slides](ReversibleVIT/reversible.pdf)|
+|Loss of plasticity in deep learning|[@hushon](https://github.com/hushon)|2025-03-28|[slides](PlasticityLoss/loss-of-plasticity.pdf)|
